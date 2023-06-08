@@ -1,0 +1,247 @@
+.Cpanelcontent {
+    height: 100vh;
+    /* width: 100vh; */
+}
+
+
+
+.aa-aa {
+    /* margin-bottom: -100px; */
+    margin-left: 600px;
+    background: #1E5966;
+    border-radius: 5px;
+    color: white;
+    border-width: 0;
+    height: 40px;
+    width: 140px;
+}
+
+.user-icon {
+    width: 20px;
+    display: flex;
+    margin-left: 8px;
+    /* margin-top: -3px; */
+}
+
+.user-text {
+    width: 110px;
+    font-size: 16px;
+    font-weight: 550;
+    height: 30px;
+    color: white;
+    margin-left: 20px;
+    margin-top: -18px;
+    /* justify-content: center; */
+    /* align-content: center; */
+}
+
+.admin-box {
+    margin-top: -50px;
+}
+
+.bb-bb {
+    height: 60px;
+    width: 170px;
+    margin-left: 950px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 7px;
+    /* color: white; */
+    border-width: 0;
+    margin-top: 5px;
+}
+
+.id-sir {
+    margin-left: 10px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: -20px;
+}
+
+.b-b {
+    /* margin-left: 10px; */
+    color: #fff;
+    margin-bottom: 50px;
+    font-size: 10px;
+    font-weight: 400;
+    margin-left: 20px;
+}
+
+.border-inside-circle {
+    border-radius: 30px;
+    background: #1E5966;
+    display: flex;
+    margin-top: -85px;
+    border-width: 0;
+    height: 35px;
+    width: 35px;
+    /* height: 39px; */
+}
+
+.user-icon-admin {
+    width: 20px;
+    height: 20px;
+    /* display: flex; */
+    margin-left: 1px;
+    margin-top: -2px;
+}
+.usericon{
+    margin-left: 10px;
+    margin-top: 7px;
+    /* justify-content: center; */
+    /* align-content: center; */
+}
+
+.cc-cc {
+    width: 50px;
+    height: 50px;
+    margin-right: 220px;
+    border-width: 0;
+    margin-top: -30px;
+    margin-bottom: -20px;
+    
+}
+.asdf{
+    margin-left: -20px;
+    /* font-size: 50px; */
+    /* font-weight: 550; */
+    /* margin-top: -40px; */
+    /* color: white; */
+}
+
+.dd-dd {
+    width: 400px;
+    border-radius: 10px;
+    height: 120px;
+    background: rgba(0, 0, 0, 0.2);
+    margin-left: -300px;
+    margin-bottom: -35px;
+    margin-top: 40px;
+    border-width: 0;
+
+}
+/* .top{
+    /* align-content: center;
+    justify-content: center; */
+    /* background-color: red;
+} */ 
+.download{
+    /* margin-bottom: -30px; */
+    margin-left: 70px;
+}
+
+.ee-ee {
+    margin-left: -20px;
+    font-size: 50px;
+    font-weight: 550;
+    margin-top: -40px;
+    color: white;
+}
+
+.ff-ff {
+    margin-left: 200px;
+    margin-top: -30px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+
+    color: #14819B;
+}
+.we{
+        margin-top: -10px;
+}
+
+.gg-gg {
+    /* width: 400px;
+    border-radius: 10px;
+    height: 120px;
+    background: rgba(0, 0, 0, 0.2);
+    margin-left: 800px;
+    margin-top: -90px;
+    border-width: 0;
+    margin-right: 90px; */
+
+    width: 400px;
+    border-radius: 10px;
+    height: 120px;
+    background: rgba(0, 0, 0, 0.2);
+    margin-left: -300px;
+    margin-bottom: -35px;
+    margin-top: -80px;
+    border-width: 0;
+    margin-left: 800px;
+
+}
+
+.hh-hh {
+    width: 50px;
+    height: 50px;
+    margin-right: 220px;
+    margin-bottom: 10px;
+}
+
+.ii-ii {
+    margin-left: -10px;
+    /* background-color: red; */
+    margin-top: -60px;
+    color: white;
+    font-size: 50px;
+    font-weight: 550;
+    /* margin-bottom: 10px; */
+}
+
+.jj-jj {
+    margin-left: 200px;
+    margin-top: -40px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #14819B;
+}
+
+.kk-kk {
+    background: rgba(0, 0, 0, 0.2);
+    color: white;
+    width: 190px;
+    height: 100px;
+    margin-left: 50px;
+    border-width: 0;
+
+    .kk {
+        color: #14819B;
+    }
+}
+
+.ll-ll {
+    margin-right: 500px;
+    margin-top: 40px;
+    border-width: 0;
+}
+
+.mm-mm {
+    margin-top: -116px;
+    border-width: 0;
+
+}
+
+.nn-nn {
+    margin-right: 500px;
+    margin-top: 40px;
+    border-width: 0;
+}
+
+.oo-oo {
+    margin-top: -115px;
+    border-width: 0;
+
+}
+
+.pp-pp {
+    width: 400px;
+    margin-left: 880px;
+    margin-top: -270px;
+    color: #14819B;
+    border-width: 0;
+
+}

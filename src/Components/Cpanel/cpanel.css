@@ -1,0 +1,56 @@
+ /* .Cpannel {
+    display: flex;
+} */
+
+/*.Cpannelcontainer {
+    background-color: aqua;
+    flex: 6;
+    height: 300px;
+} */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.Sidebar {
+    background: rgba(0, 0, 0, 0.2);
+    width: 250px;
+    margin-right: 1000px;
+    height: 575px;
+    
+}
+
+.hi-hi {
+    margin-bottom: -100px;
+    background: #1E5966;
+    border-radius: 10px;
+    color: white;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    padding: 7px;
+    cursor: pointer;
+
+    &:hover {
+        background-color: #989b98;
+    }
+}
+
+hr {
+    border: 1px solid #333333;
+} */
+.Cpannel{
+    overflow: hidden;
+    height: 100vh;
+}
